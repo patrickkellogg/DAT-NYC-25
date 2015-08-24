@@ -2,11 +2,13 @@
 
 Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/new-york) in New York (8/23/15 - 11/12/15).
 
+**Course Producer:** Daniel Demoray (email: ddemoray@generalassemb.ly)
+
 **Instructor:** [Amy Roberts](https://generalassemb.ly/instructors/amy-roberts/6290)
 
 **EiRs:** Tom Hunter & Corey Maher 
 
-**Course Producer:** Daniel Demoray (email: ddemoray@generalassemb.ly)
+
 ###Course Description
 
 Foundational course in data science, including machine learning theory, case studies and real-world examples, introduction to various modeling techniques, and other tools to make predictions and decisions about data. Students will gain practical computational experience by running machine learning algorithms and learning how to choose the best and most representative data models to make predictions. Students will be using Python throughout this course.
@@ -24,7 +26,7 @@ General Assembly's Part-time courses are pass/fail programs.  We have certain re
 ### Course Schedule 
 (Advanced topics will be finalized after student goals are defined)
 
-Week | Monday | Wednesday
+Week | Tuesday | Thursday
 --- | --- | ---
  1 | 8/25: Introduction to Data Science | 8/27: Introduction to Python for Data Science
  2 | 9/1: Intro to Machine Learning with KNN | 9/3: Regression & Regularization Part 1 **HW1 Due**
@@ -63,8 +65,8 @@ FP4 | [Final Project] | yours | 9/8 | 11/10 | 11/13
 instructor | times available | method
 :----------|:-------------------|:--
 Amy     | by appointment | slack and hangouts by appointment
-Corey	   | TBD | TBD
-Tom      | TBD | TBD
+Corey	   | Saturday 10-1pm | in person at GA or by slack
+Tom      | Sunday 2-5pm | in person at GA or by slack
 
 
 Please use email or Slack to schedule office hours. Use [office hours] in the subject line as it can help us find the emails easier and reply more quickly. 
