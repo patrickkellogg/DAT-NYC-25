@@ -17,9 +17,9 @@ Foundational course in data science, including machine learning theory, case stu
 You can always reach out to Daniel by phone or email if you have any inquiries about enrollment, payments, graduation requirements or questions about how to get to know other students.  
 General Assembly's Part-time courses are pass/fail programs.  We have certain requirements in order to be considered a graduate of our programs:
 
-1. Missing no more than 2 class sessions over the duration the course.
-2. Completing 80% of assigned homework
-3. Completing the final project
+1. Missing no more than **2 class sessions** over the duration the course.
+2. Completing **80% of assigned homework**
+3. **Completing the final project**
 
 ### Course Schedule 
 (Advanced topics will be finalized after student goals are defined)
