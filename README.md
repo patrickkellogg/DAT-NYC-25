@@ -19,7 +19,7 @@ General Assembly's Part-time courses are pass/fail programs.  We have certain re
 
 1. Missing no more than 2 class sessions over the duration the course.
 2. Completing 80% of assigned homework
-3. Completing the final project"
+3. Completing the final project
 
 ### Course Schedule 
 (Advanced topics will be finalized after student goals are defined)
