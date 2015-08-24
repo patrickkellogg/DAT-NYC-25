@@ -6,13 +6,28 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 **EiRs:** Tom Hunter & Corey Maher 
 
-### Course Schedule (Advanced topics will be finalized after student goals are defined)
+###Course Description
+
+Foundational course in data science, including machine learning theory, case studies and real-world examples, introduction to various modeling techniques, and other tools to make predictions and decisions about data. Students will gain practical computational experience by running machine learning algorithms and learning how to choose the best and most representative data models to make predictions. Students will be using Python throughout this course.
+
+
+### Completion Requirements
+
+In order to receive a General Assembly Certificate in Data Science, upon completion of the course, students must:
+
+Complete and submit 80% of all course assignments (homework, homework reviews, labs, quizzes). Students who miss more than 20% of assignments will not be eligible for the course certificate.
+Complete and subimt the course midterm test, earning a satisfactory grade.
+Complete and submit the course final project, earning a satisfactory grade by completing all functional and technical requirements on the project rubric, including delivering a presentation.
+Assignments, milestones and feedback throughout the course are designed to prepare students to deliver a quality course project.
+
+### Course Schedule 
+(Advanced topics will be finalized after student goals are defined)
 
 Week | Monday | Wednesday
 --- | --- | ---
  1 | 8/25: Introduction to Data Science | 8/27: Introduction to Python for Data Science
- 2 | 9/1: Intro to Machine Learning with KNN | 9/3: Regression & Regularization
- 3 | 9/8: Web APIs & Pandas | 9/10: Decision Trees for Classification & Regression
+ 2 | 9/1: Intro to Machine Learning with KNN | 9/3: Regression & Regularization Part 1
+ 3 | 9/8: Web APIs & Regression Part 2 | 9/10: Decision Trees for Classification & Regression
  4 | 9/15: Decision Trees Lab & Random Forests | 9/17: Clustering with K-Means <br>**Project Milestone:** [Elevator Pitch]
  5 | 9/22: No Class | 9/24: Logistic Regression 
  6 | 9/29: ROC Curves, AUC, & Imbalanced Classes | 10/1: Databases Technologies
@@ -23,21 +38,22 @@ Week | Monday | Wednesday
 11 | 11/2: Final Project Work Session and/or Advanced topic (TBD) | 11/5: Advanced topic (TBD)
 12 | **11/10:** Project Presentations Day 1 <br>**Project Milestone:** Presentation | **11/12:** Project Presentations Day 2 <br>**Project Milestone:** Presentation & Paper
 
-_syllabus last updated: 8/23/2015_
+_syllabus last updated: 8/24/2015_
 
 ### Homework Schedule
 
 Please submit completed homework assignments to the appropriate [Google Drive](https://drive.google.com/folderview?id=0B7eKqdG9LY0Yfl8yQkhUS0huUzZKY09rVUpPdFJOME5sRnp5c1Z0UUVOYjExVDNrX1otWjQ&usp=sharing_eid) folder.
 
-HW | Topics | Dataset | Assigned | Due
---- | --- | --- | --- | ---
-1 | Data Exploration | titanic | 8/27 | 9/1
-2 | KNN & Cross Validation | iris | 9/3 | 9/10
-FP1 | Elevator Pitch | N/A | 9/8 | 9/15
-3 | Decision Trees | bank | 9/15 | 9/24
-4 | Logistic Regression, ROC/AUC, & Imbalanced Classes | spam | 9/29 | 10/6
-FP2 | [First Draft] of Final Project | yours | 9/29 | 10/13
-FP3 | [Peer Feedback] on Final Project First Draft | yours | 10/13 | 10/20
+HW | Topics | Dataset | Assigned | Due | Feedback
+--- | --- | --- | --- | --- | --- 
+1 | Data Exploration | titanic | 8/27 | 9/1 | 9/3
+2 | KNN & Cross Validation | iris | 9/3 | 9/10 | 9/15
+FP1 | Elevator Pitch | N/A | 9/8 | 9/15 | 9/17
+3 | Decision Trees | bank | 9/15 | 9/24 | 10/1
+4 | Logistic Regression, ROC/AUC, & Imbalanced Classes | spam | 9/29 | 10/6 | 10/13
+FP2 | [First Draft] of Final Project | yours | 9/29 | 10/13 | 10/20
+FP3 | [Peer Feedback] on Final Project First Draft | yours | 10/13 | 10/20 | n/a
+FP4 | [Final Project] | yours | 9/8 | 11/10 | 11/13
 
 ### Communication
 
@@ -45,7 +61,7 @@ FP3 | [Peer Feedback] on Final Project First Draft | yours | 10/13 | 10/20
 
 instructor | times available | method
 :----------|:-------------------|:--
-Amy     | By appointment | slack and hangouts by appointment
+Amy     | by appointment | slack and hangouts by appointment
 Corey	   | TBD | TBD
 Tom      | TBD | TBD
 
