@@ -6,6 +6,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 **EiRs:** Tom Hunter & Corey Maher 
 
+**Course Producer:** Daniel Demoray (email: ddemoray@generalassemb.ly)
 ###Course Description
 
 Foundational course in data science, including machine learning theory, case studies and real-world examples, introduction to various modeling techniques, and other tools to make predictions and decisions about data. Students will gain practical computational experience by running machine learning algorithms and learning how to choose the best and most representative data models to make predictions. Students will be using Python throughout this course.
@@ -13,12 +14,12 @@ Foundational course in data science, including machine learning theory, case stu
 
 ### Completion Requirements
 
-In order to receive a General Assembly Certificate in Data Science, upon completion of the course, students must:
+You can always reach out to Daniel by phone or email if you have any inquiries about enrollment, payments, graduation requirements or questions about how to get to know other students.  
+General Assembly's Part-time courses are pass/fail programs.  We have certain requirements in order to be considered a graduate of our programs:
 
-Complete and submit 80% of all course assignments (homework, homework reviews, labs, quizzes). Students who miss more than 20% of assignments will not be eligible for the course certificate.
-Complete and subimt the course midterm test, earning a satisfactory grade.
-Complete and submit the course final project, earning a satisfactory grade by completing all functional and technical requirements on the project rubric, including delivering a presentation.
-Assignments, milestones and feedback throughout the course are designed to prepare students to deliver a quality course project.
+1. Missing no more than 2 class sessions over the duration the course.
+2. Completing 80% of assigned homework
+3. Completing the final project"
 
 ### Course Schedule 
 (Advanced topics will be finalized after student goals are defined)
@@ -26,10 +27,10 @@ Assignments, milestones and feedback throughout the course are designed to prepa
 Week | Monday | Wednesday
 --- | --- | ---
  1 | 8/25: Introduction to Data Science | 8/27: Introduction to Python for Data Science
- 2 | 9/1: Intro to Machine Learning with KNN | 9/3: Regression & Regularization Part 1
- 3 | 9/8: Web APIs & Regression Part 2 | 9/10: Decision Trees for Classification & Regression
+ 2 | 9/1: Intro to Machine Learning with KNN | 9/3: Regression & Regularization Part 1 **HW1 Due**
+ 3 | 9/8: Web APIs & Regression Part 2 | 9/10: Decision Trees for Classification & Regression **HW2 Due**
  4 | 9/15: Decision Trees Lab & Random Forests | 9/17: Clustering with K-Means <br>**Project Milestone:** [Elevator Pitch]
- 5 | 9/22: No Class | 9/24: Logistic Regression 
+ 5 | 9/22: No Class | 9/24: Logistic Regression **HW3 Due**
  6 | 9/29: ROC Curves, AUC, & Imbalanced Classes | 10/1: Databases Technologies
  7 | 10/6: Recommender Systems <br> **HW4 Due** | 10/8: Naive Bayes
  8 | 10/13: Natural Language Processing  <br>**Project Milestone:** [First Draft Due]| 10/15: Dimensionality Reduction
@@ -48,7 +49,7 @@ HW | Topics | Dataset | Assigned | Due | Feedback
 --- | --- | --- | --- | --- | --- 
 1 | Data Exploration | titanic | 8/27 | 9/1 | 9/3
 2 | KNN & Cross Validation | iris | 9/3 | 9/10 | 9/15
-FP1 | Elevator Pitch | N/A | 9/8 | 9/15 | 9/17
+FP1 | Elevator Pitch | N/A | 9/8 | 9/17 | 9/24
 3 | Decision Trees | bank | 9/15 | 9/24 | 10/1
 4 | Logistic Regression, ROC/AUC, & Imbalanced Classes | spam | 9/29 | 10/6 | 10/13
 FP2 | [First Draft] of Final Project | yours | 9/29 | 10/13 | 10/20
