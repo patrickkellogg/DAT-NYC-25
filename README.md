@@ -66,9 +66,9 @@ FP4 | [Final Project] | yours | 9/8 | 11/10 | 11/13
 
 instructor | times available | method
 :----------|:-------------------|:--
-Amy     | by appointment | slack and hangouts by appointment
-Corey	   | Saturday 10-1pm | in person at GA or by slack
-Tom      | Sunday 2-5pm | in person at GA or by slack
+Amy     | TBD | slack and hangouts by appointment
+Corey	   | TBD| in person at GA or by slack
+Tom      | TBD | in person at GA or by slack
 
 
 Please use email or Slack to schedule office hours. Use [office hours] in the subject line as it can help us find the emails easier and reply more quickly. 
