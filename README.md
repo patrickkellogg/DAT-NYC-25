@@ -8,6 +8,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 **EiRs:** Tom Hunter & Corey Maher 
 
+###Exit Ticket
+[Fill me out at the end of each class!](http://bit.ly/1EAEOmg)
 
 ###Course Description
 
