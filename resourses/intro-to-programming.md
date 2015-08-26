@@ -1,7 +1,14 @@
 ## DAT NY 25 Programming Resourses 
 Check here for a curated list of online resources and books to improve your programming skills. 
 
-**Learn Python**
+**Source Docs- the first place you should go for questions**
+
+[Python](https://www.python.org/doc/)
+[iPython Notebook](https://ipython.org/ipython-doc/3/notebook/notebook.html#introduction)
+[Pandas](http://pandas.pydata.org/pandas-docs/stable/)
+[SciKitLearn](http://scikit-learn.org/stable/documentation.html)
+
+**Python**
 
 [DataQuest](https://www.dataquest.io/)
 
@@ -10,6 +17,13 @@ Check here for a curated list of online resources and books to improve your prog
 [Data Science from Scratch](http://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
 
 [Learn Python the Hard Way](http://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914) also [online course](http://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914)
+
+**iPythonNotebook**
+
+[Keyboard Shortcuts](http://johnlaudun.org/20131228-ipython-notebook-keyboard-shortcuts/) full list available in "help" from a notebook
+
+**Pandas**
+[Code Snippets for common tasks](https://gist.github.com/bsweger/e5817488d161f37dcbd2)
 
 
 **Learn Git**
