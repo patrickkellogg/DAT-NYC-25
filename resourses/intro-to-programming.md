@@ -26,6 +26,7 @@ Check here for a curated list of online resources and books to improve your prog
 [Keyboard Shortcuts](http://johnlaudun.org/20131228-ipython-notebook-keyboard-shortcuts/) full list available in "help" from a notebook
 
 **Pandas**
+
 [Code Snippets for common tasks](https://gist.github.com/bsweger/e5817488d161f37dcbd2)
 
 
