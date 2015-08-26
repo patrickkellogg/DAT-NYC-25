@@ -4,8 +4,11 @@ Check here for a curated list of online resources and books to improve your prog
 **Source Docs- the first place you should go for questions**
 
 [Python](https://www.python.org/doc/)
+
 [iPython Notebook](https://ipython.org/ipython-doc/3/notebook/notebook.html#introduction)
+
 [Pandas](http://pandas.pydata.org/pandas-docs/stable/)
+
 [SciKitLearn](http://scikit-learn.org/stable/documentation.html)
 
 **Python**
