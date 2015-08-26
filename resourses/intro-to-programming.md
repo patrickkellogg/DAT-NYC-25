@@ -2,12 +2,10 @@
 Check here for a curated list of online resources and books to improve your programming skills. 
 
 **Learn Python**
-Browser based
+
 [DataQuest](https://www.dataquest.io/)
 
 [Codeacademy](https://www.codecademy.com/)
-
-Books
 
 [Data Science from Scratch](http://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
 
@@ -15,9 +13,11 @@ Books
 
 
 **Learn Git**
+
 [CodeSchool/GitHub Tutorial](https://try.github.io/levels/1/challenges/1)
 
 **Terminal**
+
 [Command Cheatsheet](http://files.fosswire.com/2007/08/fwunixref.pdf)
 
 [Shut up and shell](http://cli.learncodethehardway.org/book/)
